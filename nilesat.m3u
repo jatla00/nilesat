@@ -1,36 +1,123 @@
-
-#EXTINF:-1, beIN Sports 1 HD
+#EXTM3U
+#EXTINF:0,BEINSPORTS 1HD
 http://176.53.21.99:8082/TV4001
-#EXTINF:-1, beIN Sports 3HD
+#EXTINF:0,BEINSPORTS 2HD
+http://176.53.21.99:8082/TV4002
+#EXTINF:0,BEINSPORTS 3HD
 http://176.53.21.99:8082/TV4003
-#EXTINF:-1, beIN Sports 4HD
+#EXTINF:0,BEINSPORTS 4HD
 http://176.53.21.99:8082/TV4004
-#EXTINF:-1, beIN Sports 5HD
+#EXTINF:0,BEINSPORTS 5HD
 http://176.53.21.99:8082/TV4005
-#EXTINF:-1, beIN Sports 6HD
+#EXTINF:0,BEINSPORTS 6HD
 http://176.53.21.99:8082/TV4006
-#EXTINF:-1, beIN Sports 7HD
+#EXTINF:0,BEINSPORTS 7HD
 http://176.53.21.99:8082/TV4007
-#EXTINF:-1, beIN Sports 8HD
+#EXTINF:0,BEINSPORTS 8HD
 http://176.53.21.99:8082/TV4008
-#EXTINF:-1, beIN Sports 9HD
+#EXTINF:0,BEINSPORTS 9HD
 http://176.53.21.99:8082/TV4009
-#EXTINF:-1, beIN Sports FR1HD
-http://176.53.21.99:8082/TV4016
-#EXTINF:-1, beIN Sports FR2HD
-#EXTINF:-1,OSN_YA_HALA_SHABEB 
-http://62.210.87.116:8883/live/Hmtooo/fannen3/424.m3u8
-#EXTINF:-1,OSN_YA_HALA_DRAMA 
-http://62.210.87.116:8883/live/Hmtooo/fannen3/423.m3u8
-#EXTINF:-1,OSN_YA_HALA_2 
-http://62.210.87.116:8883/live/Hmtooo/fannen3/420.m3u8
-#EXTINF:-1,OSN_YA_HALA 
-http://62.210.87.116:8883/live/Hmtooo/fannen3/419.m3u8
-#EXTINF:-1,OSN_serie_4 
-http://62.210.87.116:8883/live/Hmtooo/fannen3/426.m3u8
-#EXTINF:-1,OSN_serie 
-http://62.210.87.116:8883/live/Hmtooo/fannen3/422.m3u8
-#EXTINF:-1,OSN_MBC_PLUS_DRAMA 
-http://62.210.87.116:8883/live/Hmtooo/fannen3/425.m3u8
-#EXTINF:-1,OSN_al_yawm 
-http://62.210.87.116:8883/live/Hmtooo/fannen3/421.m3u8
+#EXTINF:0,BEINSPORTS 10HD
+http://176.53.21.99:8082/TV4010
+#EXTINF:0,BEINSPORTS 11HD
+http://176.53.21.99:8082/TV4011
+#EXTINF:0,BEINSPORTS 12HD
+http://176.53.21.99:8082/TV4012
+#EXTINF:0,BEINSPORTS 13HD
+http://176.53.21.99:8082/TV4013
+#EXTINF:0,BEINSPORTS 14HD
+http://176.53.21.99:8082/TV4014
+#EXTINF:0,[COLOR yellow]by tutorial-tv-
+
+xbmc.blogspot.com[/COLOR]
+http://tutorial-tv-
+
+xbmc.blogspot.com
+#EXTINF:-1,SK1 
+http://188.165.225.92:1000/albsportscom/www.sportsalb.co
+
+m/148.ch 
+#EXTINF:-1,SK2 
+http://188.165.225.92:1000/albsportscom/www.sportsalb.co
+
+m/149.ch 
+#EXTINF:-1,SK3 
+http://188.165.225.92:1000/albsportscom/www.sportsalb.co
+
+m/150.ch 
+#EXTINF:-1,ARENA Sport 1 
+http://188.165.225.92:1000/albsportscom/www.sportsalb.co
+
+m/151.ch 
+#EXTINF:-1,ARENA Sport 2 
+http://188.165.225.92:1000/albsportscom/www.sportsalb.co
+
+m/152.ch 
+#EXTINF:-1,ARENA Sport 3 
+http://188.165.225.92:1000/albsportscom/www.sportsalb.co
+
+m/153.ch 
+#EXTINF:-1,ARENA Sport 4 
+http://188.165.225.92:1000/albsportscom/www.sportsalb.co
+
+m/154.ch 
+#EXTINF:-1,Dolce sport1-
+http://188.165.225.92:1000/albsportscom/www.sportsalb.co
+
+m/155.ch
+#EXTINF:-1,Digi sport1-
+http://188.165.225.92:1000/albsportscom/www.sportsalb.co
+
+m/156.ch
+#EXTINF:-1,Digi sport2-
+http://188.165.225.92:1000/albsportscom/www.sportsalb.co
+
+m/157.ch
+#EXTINF:-1,EUROSPORT
+http://www.nasatv.eu:80/live?
+
+channelId=42&uid=5&deviceUser=amer&devicePass=amer
+#EXTINF:-1,EUROSPORT 2
+http://www.nasatv.eu:80/live?
+
+channelId=43&uid=5&deviceUser=amer&devicePass=amer
+#EXTINF:-1,ARENA Sport 1
+http://www.nasatv.eu:80/live?
+
+channelId=16&uid=5&deviceUser=amer&devicePass=amer
+#EXTINF:-1,ARENA Sport 2
+http://www.nasatv.eu:80/live?
+
+channelId=17&uid=5&deviceUser=amer&devicePass=amer
+#EXTINF:-1,ARENA Sport 3
+http://www.nasatv.eu:80/live?
+
+channelId=18&uid=5&deviceUser=amer&devicePass=amer
+#EXTINF:-1,ARENA Sport 4
+http://www.nasatv.eu:80/live?
+
+channelId=19&uid=5&deviceUser=amer&devicePass=amer
+#EXTINF:-1,SPORTKLUB 1
+http://www.nasatv.eu:80/live?
+
+channelId=87&uid=5&deviceUser=amer&devicePass=amer
+#EXTINF:-1,SPORTKLUB 2
+http://www.nasatv.eu:80/live?
+
+channelId=88&uid=5&deviceUser=amer&devicePass=amer
+#EXTINF:-1,SportKlub 3
+http://www.nasatv.eu:80/live?
+
+channelId=101&uid=5&deviceUser=amer&devicePass=amer
+#EXTINF:-1,SportKlub 1
+http://www.nasatv.eu:80/live?
+
+channelId=104&uid=5&deviceUser=amer&devicePass=amer
+#EXTINF:-1,sportklub 2
+http://www.nasatv.eu:80/live?
+
+channelId=102&uid=5&deviceUser=amer&devicePass=amer
+#EXTINF:-1,Sportklub 3
+http://www.nasatv.eu:80/live?
+
+channelId=103&uid=5&deviceUser=amer&devicePass=amer
