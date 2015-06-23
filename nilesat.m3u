@@ -1,41 +1,4 @@
-#EXTM3U
 
-bein sport1
-http://176.53.21.99:8082/TV4001
-
-bein sport2
-http://176.53.21.99:8082/TV4002
-
-bein sport3
-http://176.53.21.99:8082/TV4003
-
-bein sport4
-http://176.53.21.99:8082/TV4004
-
-bein sport5
-http://176.53.21.99:8082/TV4005
-
-bein sport6
-http://176.53.21.99:8082/TV4006
-
-bein sport7
-http://176.53.21.99:8082/TV4007
-
-bein sport8
-http://176.53.21.99:8082/TV4008
-
-bein sport9
-http://176.53.21.99:8082/TV4009
-
-bein sport10
-http://176.53.21.99:8082/TV4010
-
-bein sport1 fr
-http://176.53.21.99:8082/TV4016
-
-bein sport2 fr
-http://176.53.21.99:8082/TV4017
-http://176.53.21.99:8082/TV4002
 #EXTINF:-1, beIN Sports 1 HD
 http://176.53.21.99:8082/TV4001
 #EXTINF:-1, beIN Sports 3HD
