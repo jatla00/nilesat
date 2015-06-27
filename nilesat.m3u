@@ -1,29 +1,35 @@
-#EXTM3U
-#EXTINF:0,BEINSPORTS 1HD
-http://176.53.21.99:8082/TV4001
-#EXTINF:0,BEINSPORTS 2HD
-http://176.53.21.99:8082/TV4002
-#EXTINF:0,BEINSPORTS 3HD
-http://176.53.21.99:8082/TV4003
-#EXTINF:0,BEINSPORTS 4HD
-http://176.53.21.99:8082/TV4004
-#EXTINF:0,BEINSPORTS 5HD
-http://176.53.21.99:8082/TV4005
-#EXTINF:0,BEINSPORTS 6HD
-http://176.53.21.99:8082/TV4006
-#EXTINF:0,BEINSPORTS 7HD
-http://176.53.21.99:8082/TV4007
-#EXTINF:0,BEINSPORTS 8HD
-http://176.53.21.99:8082/TV4008
-#EXTINF:0,BEINSPORTS 9HD
-http://176.53.21.99:8082/TV4009
-#EXTINF:0,BEINSPORTS 10HD
-http://176.53.21.99:8082/TV4010
-#EXTINF:0,BEINSPORTS 11HD
-http://176.53.21.99:8082/TV4011
-#EXTINF:0,BEINSPORTS 12HD
-http://176.53.21.99:8082/TV4012
-#EXTINF:0,BEINSPORTS 13HD
-http://176.53.21.99:8082/TV4013
-#EXTINF:0,BEINSPORTS 14HD
-http://176.53.21.99:8082/TV4014
+
+#EXTINF:-1,Bein Sports 1 FR
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/31.ts
+#EXTINF:-1,Bein Sports 2 FR
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/36.ts
+#EXTINF:-1,Bein Sports 3 FR
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/32.ts
+#EXTINF:-1,Bein Max 4
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/93.ts
+#EXTINF:-1,Bein Max 5
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/94.ts
+#EXTINF:-1,Bein Sports 1 HD
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/16.ts
+#EXTINF:-1,Bein Sports 2 HD
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/17.ts
+#EXTINF:-1,Bein Sports 3 HD
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/18.ts
+#EXTINF:-1,Bein Sports 4 HD
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/19.ts
+#EXTINF:-1,Bein Sports 5 HD
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/20.ts
+#EXTINF:-1,Bein Sports 6 HD
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/21.ts
+#EXTINF:-1,Bein Sports 7 HD
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/22.ts
+#EXTINF:-1,Bein Sports 8 HD
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/23.ts
+#EXTINF:-1,Bein Sports 9 HD
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/24.ts
+#EXTINF:-1,Bein Sports 10 HD
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/25.ts
+#EXTINF:-1,Bein Sports 11 HD
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/247.ts
+#EXTINF:-1,Bein Sports 12 HD
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/248.ts
