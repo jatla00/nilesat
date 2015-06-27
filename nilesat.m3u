@@ -1,35 +1,27 @@
-
-#EXTINF:-1,Bein Sports 1 FR
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/31.ts
-#EXTINF:-1,Bein Sports 2 FR
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/36.ts
-#EXTINF:-1,Bein Sports 3 FR
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/32.ts
-#EXTINF:-1,Bein Max 4
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/93.ts
-#EXTINF:-1,Bein Max 5
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/94.ts
-#EXTINF:-1,Bein Sports 1 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/16.ts
-#EXTINF:-1,Bein Sports 2 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/17.ts
-#EXTINF:-1,Bein Sports 3 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/18.ts
-#EXTINF:-1,Bein Sports 4 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/19.ts
-#EXTINF:-1,Bein Sports 5 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/20.ts
-#EXTINF:-1,Bein Sports 6 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/21.ts
-#EXTINF:-1,Bein Sports 7 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/22.ts
-#EXTINF:-1,Bein Sports 8 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/23.ts
-#EXTINF:-1,Bein Sports 9 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/24.ts
-#EXTINF:-1,Bein Sports 10 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/25.ts
-#EXTINF:-1,Bein Sports 11 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/247.ts
-#EXTINF:-1,Bein Sports 12 HD
-http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/LU8sj93J6s9/248.ts
+#EXTM3U
+#EXTINF:0,Anis_Sat : Sky sports 1
+http://195.154.227.38:1935/Iive/skysports1lsh/playlist.m3u8
+#EXTINF:0,Anis_Sat : Sky sports 2
+http://195.154.227.38:1935/Iive/skysports2lsh/playlist.m3u8
+#EXTINF:0,Anis_Sat : Sky sports 3
+http://195.154.227.38:1935/Iive/skysports3lsh/playlist.m3u8
+#EXTINF:0,Anis_Sat : Sky sports 4
+http://195.154.227.38:1935/Iive/skysports4lsh/playlist.m3u8
+#EXTINF:0,Anis_Sat : Sky sports 5
+http://195.154.227.38:1935/Iive/skysports5lsh/playlist.m3u8
+#EXTINF:0,Anis_Sat : BT Sports 1
+http://195.154.227.38:1935/Iive/btsports1lsh/playlist.m3u8
+#EXTINF:0,Anis_Sat : BT Sports 2
+http://195.154.227.38:1935/Iive/btsports2lsh/playlist.m3u8
+#EXTINF:0,Anis_Sat : Premier sports OFF
+http://195.154.227.38:1935/Iive/vpremsplsh/playlist.m3u8
+#EXTINF:0,Anis Sat : TSN1 OFF
+http://195.154.227.38:1935/Iive/tsn1lsh/playlist.m3u8
+#EXTINF:0,Anis_Sat : TSN2
+http://195.154.227.38:1935/Iive/tsn2lsh/playlist.m3u8
+#EXTINF:0,Anis_Sat : TSN3 OFF
+http://195.154.227.38:1935/Iive/tsn3lsh/playlist.m3u8
+#EXTINF:0,Anis_Sat : TSN4 OFF
+http://195.154.227.38:1935/Iive/tsn4lsh/playlist.m3u8
+#EXTINF:0,Anis_Sat : TSN5
+http://195.154.227.38:1935/Iive/tsn5lsh/playlist.m3u8
