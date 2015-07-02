@@ -1,27 +1,30 @@
-#EXTM3U
-#EXTINF:0,Anis_Sat : Sky sports 1
-http://195.154.227.38:1935/Iive/skysports1lsh/playlist.m3u8
-#EXTINF:0,Anis_Sat : Sky sports 2
-http://195.154.227.38:1935/Iive/skysports2lsh/playlist.m3u8
-#EXTINF:0,Anis_Sat : Sky sports 3
-http://195.154.227.38:1935/Iive/skysports3lsh/playlist.m3u8
-#EXTINF:0,Anis_Sat : Sky sports 4
-http://195.154.227.38:1935/Iive/skysports4lsh/playlist.m3u8
-#EXTINF:0,Anis_Sat : Sky sports 5
-http://195.154.227.38:1935/Iive/skysports5lsh/playlist.m3u8
-#EXTINF:0,Anis_Sat : BT Sports 1
-http://195.154.227.38:1935/Iive/btsports1lsh/playlist.m3u8
-#EXTINF:0,Anis_Sat : BT Sports 2
-http://195.154.227.38:1935/Iive/btsports2lsh/playlist.m3u8
-#EXTINF:0,Anis_Sat : Premier sports OFF
-http://195.154.227.38:1935/Iive/vpremsplsh/playlist.m3u8
-#EXTINF:0,Anis Sat : TSN1 OFF
-http://195.154.227.38:1935/Iive/tsn1lsh/playlist.m3u8
-#EXTINF:0,Anis_Sat : TSN2
-http://195.154.227.38:1935/Iive/tsn2lsh/playlist.m3u8
-#EXTINF:0,Anis_Sat : TSN3 OFF
-http://195.154.227.38:1935/Iive/tsn3lsh/playlist.m3u8
-#EXTINF:0,Anis_Sat : TSN4 OFF
-http://195.154.227.38:1935/Iive/tsn4lsh/playlist.m3u8
-#EXTINF:0,Anis_Sat : TSN5
-http://195.154.227.38:1935/Iive/tsn5lsh/playlist.m3u8
+#EXTINF:-1,BeIN 1
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/555.ch
+#EXTINF:-1,BeIN 2
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/556.ch
+#EXTINF:-1,BeIN 3
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/557.ch
+#EXTINF:-1,BeIN 4
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/558.ch
+#EXTINF:-1,BeIN 5
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/559.ch
+#EXTINF:-1,BeIN 6
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/560.ch
+#EXTINF:-1,BeIN 7
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/561.ch
+#EXTINF:-1,BeIN 8
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/562.ch
+#EXTINF:-1,BeIN 9
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/563.ch
+#EXTINF:-1,BeIN 10
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/564.ch
+#EXTINF:-1,BeIN 11 HD
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/565.ch
+#EXTINF:-1,BeIN 12 HD
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/566.ch
+#EXTINF:-1,BeIN 13 HD
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/567.ch
+#EXTINF:-1,BeIN 14 HD
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/568.ch
+#EXTINF:-1,BeIN 15 HD
+http://195.154.157.95:11000/Public/www.freeiptvlinks.cim/569.ch
