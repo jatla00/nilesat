@@ -1,30 +1,132 @@
-#EXTINF:0,Bein SPORTS 1HD
-http://bit.ly/1PB0hTY
-#EXTINF:0,Bein SPORTS 2HD
-http://bit.ly/1IGVlw8
-#EXTINF:0,Bein SPORTS 3HD
-http://bit.ly/1ON2pWR
-#EXTINF:0,Bein SPORTS 4HD
-http://bit.ly/1ScPe7a
-#EXTINF:0,Bein SPORTS 5HD
-http://bit.ly/1LQ5mpU
-#EXTINF:0,Bein SPORTS 6HD
-http://bit.ly/1MwoMBI
-#EXTINF:0,Bein SPORTS 7HD
-http://bit.ly/1KvCh4j
-#EXTINF:0,Bein SPORTS 8HD
-http://bit.ly/1U4geTV
-#EXTINF:0,Bein SPORTS 9HD
-http://bit.ly/1JPgw9U
-#EXTINF:0,Bein SPORTS 10HD
-http://bit.ly/1LUhckr
-#EXTINF:0,Bein SPORTS 11HD
-http://bit.ly/1ScPK4Z
-#EXTINF:0,Bein SPORTS 12HD
-http://bit.ly/1SLg3dI
-#EXTINF:0,Bein SPORTS 13HD
-http://bit.ly/1Mt5eNE
-#EXTINF:0,Bein SPORTS 14HD
-http://bit.ly/1D9efJv
-#EXTINF:0,Bein SPORTS 15HD
-http://bit.ly/1OzjpPE
+
+#EXTM3U
+#EXTINF:-1,beinHD Sports HD1
+http://iptv.star7arab.com:80/live/star7arab/df74/1.ts
+#EXTINF:-1,beinHD Sports HD2
+http://iptv.star7arab.com:80/live/star7arab/df74/2.ts
+#EXTINF:-1,beinHD Sports HD3
+http://iptv.star7arab.com:80/live/star7arab/df74/3.ts
+#EXTINF:-1,beinHD Sports HD4
+http://iptv.star7arab.com:80/live/star7arab/df74/4.ts
+#EXTINF:-1,beinHD Sports HD5
+http://iptv.star7arab.com:80/live/star7arab/df74/5.ts
+#EXTINF:-1,beinHD Sports HD6
+http://iptv.star7arab.com:80/live/star7arab/df74/6.ts
+#EXTINF:-1,beinHD Sports HD7
+http://iptv.star7arab.com:80/live/star7arab/df74/7.ts
+#EXTINF:-1,beinHD Sports HD8
+http://iptv.star7arab.com:80/live/star7arab/df74/8.ts
+#EXTINF:-1,beinHD Sports HD9
+http://iptv.star7arab.com:80/live/star7arab/df74/9.ts
+#EXTINF:-1,beinHD Sports HD10
+http://iptv.star7arab.com:80/live/star7arab/df74/10.ts
+#EXTINF:-1,OSN Yahala HD
+http://iptv.star7arab.com:80/live/star7arab/df74/528.ts
+#EXTINF:-1,OSN Yahala Drama HD
+http://iptv.star7arab.com:80/live/star7arab/df74/529.ts
+#EXTINF:-1,OSN Yahala Shabab
+http://iptv.star7arab.com:80/live/star7arab/df74/530.ts
+#EXTINF:-1,OSN Al youm
+http://iptv.star7arab.com:80/live/star7arab/df74/550.ts
+#EXTINF:-1,OSN Cinema 1
+http://iptv.star7arab.com:80/live/star7arab/df74/516.ts
+#EXTINF:-1,OSN Cinema 2
+http://iptv.star7arab.com:80/live/star7arab/df74/517.ts
+#EXTINF:-1,OSN Movies Box Office 1 HD
+http://iptv.star7arab.com:80/live/star7arab/df74/502.ts
+#EXTINF:-1,OSN Movies Box Office 2 HD
+http://iptv.star7arab.com:80/live/star7arab/df74/503.ts
+#EXTINF:-1,OSN Movies Box Office 3 HD
+http://iptv.star7arab.com:80/live/star7arab/df74/504.ts
+#EXTINF:-1,OSN Movies HD
+http://iptv.star7arab.com:80/live/star7arab/df74/505.ts
+#EXTINF:-1,OSN Movies Action HD
+http://iptv.star7arab.com:80/live/star7arab/df74/507.ts
+#EXTINF:-1,OSN MBC Drama HD
+http://iptv.star7arab.com:80/live/star7arab/df74/506.ts
+#EXTINF:-1,TF1 HD
+http://iptv.star7arab.com:80/live/star7arab/df74/703.ts
+#EXTINF:-1,FRANCE 2 HD
+http://iptv.star7arab.com:80/live/star7arab/df74/718.ts
+#EXTINF:-1,FRANCE 3 HD
+http://iptv.star7arab.com:80/live/star7arab/df74/717.ts
+#EXTINF:-1,FRANCE 4 HD
+http://iptv.star7arab.com:80/live/star7arab/df74/716.ts
+#EXTINF:-1,FRANCE 5 HD
+http://iptv.star7arab.com:80/live/star7arab/df74/715.ts
+#EXTINF:-1,M6 HD
+http://iptv.star7arab.com:80/live/star7arab/df74/711.ts
+#EXTINF:-1,W9 HD
+http://iptv.star7arab.com:80/live/star7arab/df74/700.ts
+#EXTINF:-1,ACTION HD
+http://iptv.star7arab.com:80/live/star7arab/df74/747.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://iptv.star7arab.com:80/live/star7arab/df74/789.ts
+#EXTINF:-1,Mangas
+http://iptv.star7arab.com:80/live/star7arab/df74/819.ts
+#EXTINF:-1,BOOMERANG HD
+http://iptv.star7arab.com:80/live/star7arab/df74/788.ts
+#EXTINF:-1,CINE PREMIER HD
+http://iptv.star7arab.com:80/live/star7arab/df74/731.ts
+#EXTINF:-1,CINE EMOTION HD
+http://iptv.star7arab.com:80/live/star7arab/df74/734.ts
+#EXTINF:-1,CINE CLASSIC HD
+http://iptv.star7arab.com:80/live/star7arab/df74/730.ts
+#EXTINF:-1,Canal HD
+http://iptv.star7arab.com:80/live/star7arab/df74/743.ts
+#EXTINF:-1,Canal Series HD
+http://iptv.star7arab.com:80/live/star7arab/df74/740.ts
+#EXTINF:-1,Canal Family HD
+http://iptv.star7arab.com:80/live/star7arab/df74/741.ts
+#EXTINF:-1,Canal Cinema HD
+http://iptv.star7arab.com:80/live/star7arab/df74/742.ts
+#EXTINF:-1,Canal Sport HD
+http://iptv.star7arab.com:80/live/star7arab/df74/739.ts
+#EXTINF:-1,beinHD Sport 1 FR
+http://iptv.star7arab.com:80/live/star7arab/df74/17.ts
+#EXTINF:-1,beinHD Sport 2 FR
+http://iptv.star7arab.com:80/live/star7arab/df74/18.ts
+#EXTINF:-1,beinHD Sport 3 FR
+http://iptv.star7arab.com:80/live/star7arab/df74/19.ts
+#EXTINF:-1,ARTE HD
+http://iptv.star7arab.com:80/live/star7arab/df74/745.ts
+#EXTINF:-1,animaux HD
+http://iptv.star7arab.com:80/live/star7arab/df74/746.ts
+#EXTINF:-1,Ushuaia HD
+http://iptv.star7arab.com:80/live/star7arab/df74/749.ts
+#EXTINF:-1,Samira TV
+http://iptv.star7arab.com:80/live/star7arab/df74/102.ts
+#EXTINF:-1,Rotana Masriya
+http://iptv.star7arab.com:80/live/star7arab/df74/1103.ts
+#EXTINF:-1,Algeria 3
+http://iptv.star7arab.com:80/live/star7arab/df74/101.ts
+#EXTINF:-1,Panorama Film
+http://iptv.star7arab.com:80/live/star7arab/df74/328.ts
+#EXTINF:-1,Panorama Drama
+http://iptv.star7arab.com:80/live/star7arab/df74/316.ts
+#EXTINF:-1,Panorama Comedy
+http://iptv.star7arab.com:80/live/star7arab/df74/327.ts
+#EXTINF:-1,Nessma TV
+http://iptv.star7arab.com:80/live/star7arab/df74/103.ts
+#EXTINF:-1,Nat Geo AD
+http://iptv.star7arab.com:80/live/star7arab/df74/100.ts
+#EXTINF:-1,MBC MAX
+http://iptv.star7arab.com:80/live/star7arab/df74/304.ts
+#EXTINF:-1,MBC Action
+http://iptv.star7arab.com:80/live/star7arab/df74/306.ts
+#EXTINF:-1,MBC 4
+http://iptv.star7arab.com:80/live/star7arab/df74/303.ts
+#EXTINF:-1,MBC 3
+http://iptv.star7arab.com:80/live/star7arab/df74/302.ts
+#EXTINF:-1,MBC 2
+http://iptv.star7arab.com:80/live/star7arab/df74/301.ts
+#EXTINF:-1,MBC 1
+http://iptv.star7arab.com:80/live/star7arab/df74/300.ts
+#EXTINF:-1,Fox Movies
+http://iptv.star7arab.com:80/live/star7arab/df74/311.ts
+#EXTINF:-1,EL Djazairia
+http://iptv.star7arab.com:80/live/star7arab/df74/106.ts
+#EXTINF:-1,Echorouk TV
+http://iptv.star7arab.com:80/live/star7arab/df74/104.ts
+#EXTINF:-1,Dzair TV
+http://iptv.star7arab.com:80/live/star7arab/df74/107.ts&type=m3u
