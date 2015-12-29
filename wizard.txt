@@ -1,7 +1,7 @@
 name="WizardName"
 url="https://copy.com/aElKE0KXhX394N0R/Kodi.zip?download=1"
-img="https://copy.com/web/users/user-16092972/copy/startup.jpg?revision=2&download=1"
-fanart="https://copy.com/web/users/user-16092972/copy/startup.jpg?revision=2&download=1"
+img="https://copy.com/SQZEFWY3QAJ7JLAE"
+fanart="https://copy.com/SQZEFWY3QAJ7JLAE"
 description="Tunisian build maked by jatlaoui raouf medeninne tunisia "
 
 
