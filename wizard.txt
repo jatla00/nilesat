@@ -5,3 +5,16 @@ fanart="http://files.softicons.com/download/web-icons/world-flags-icons-by-studi
 description="Tunisian build maked by jatlaoui raouf medeninne tunisia "
 
 
+
+
+name="THE 18+ BUILD (by jatlaoui)"
+url="https://archive.org/download/18build/18+build.zip"
+img="http://ss79.org/icon/18+.png"
+fanart="http://ss79.org/fanart/adult.png"
+description="back by popular demand"
+
+name="pour enfants"
+url="http://kodiaddicts.com/builds/kodikids/kodikids.zip"
+img="http://kodiaddicts.com/builds/kodikids/logo.png"
+fanart="http://kodiaddicts.com/builds/kodikids/splash.jpg"
+description="Kodi Kids"
