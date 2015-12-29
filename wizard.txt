@@ -1,7 +1,7 @@
-name="WizardName"
+name="Tunisian build arabic french engl"
 url="https://copy.com/aElKE0KXhX394N0R/Kodi.zip?download=1"
-img="https://copy.com/SQZEFWY3QAJ7JLAE"
-fanart="https://copy.com/4mmOVq2ahBwS33M9"
+img="http://www.careinternational.org.uk/sites/default/files/image/Africa%20Tunisia.jpg"
+fanart="http://files.softicons.com/download/web-icons/world-flags-icons-by-studiotwentyeight/png/128x128/Tunisia.png"
 description="Tunisian build maked by jatlaoui raouf medeninne tunisia "
 
 
