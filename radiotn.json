@@ -2,7 +2,7 @@
   {
     "ID": "7",
     "Name": "Radio ULYSSE FM",
-    "URLStream": "http://www.yourmuze.fm/webplayer/ulysse-fm-tunisia",
+    "URLStream": "http://188.165.79.152:9990/;stream.mp3",
     "Infos": "64kbps",
     "Icon": "http://tun-radio.com/files/images/25.png"
   },
