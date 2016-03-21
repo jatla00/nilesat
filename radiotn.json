@@ -2,7 +2,7 @@
   {
     "ID": "7",
     "Name": "Radio ULYSSE FM",
-    "URLStream": "http://188.165.79.152:9990/;stream.mp3",
+    "URLStream": "http://188.165.79.152:9990/",
     "Infos": "64kbps",
     "Icon": "http://tun-radio.com/files/images/25.png"
   },
