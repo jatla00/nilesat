@@ -1,0 +1,219 @@
+[
+  {
+    "ID": "7",
+    "Name": "Radio ULYSSE FM",
+    "URLStream": "http://www.yourmuze.fm/webplayer/ulysse-fm-tunisia",
+    "Infos": "64kbps",
+    "Icon": "http://tun-radio.com/files/images/25.png"
+  },
+  {
+    "ID": "8",
+    "Name": "Al Idaa Al Watania",
+    "URLStream": "mms://vipmms9.yacast.net/snrt_live01",
+    "Infos": "64kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_watania.png"
+  },
+  {
+    "ID": "19",
+    "Name": "Al Manar",
+    "URLStream": "http://rs1.vdl.fm:8900",
+    "Infos": "48kbps - WebRadio",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_almanara.png"
+  },
+  {
+    "ID": "20",
+    "Name": "AnwaRock",
+    "URLStream": "http://listen.radionomy.com/anwa-rock",
+    "Infos": "128kbps - WebRadio",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_anwarock.png"
+  },
+  {
+    "ID": "1",
+    "Name": "Atlantic Radio",
+    "URLStream": "http://68.168.117.130:8000/",
+    "Infos": "64kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_radioatlantic.png"
+  },
+  {
+    "ID": "21",
+    "Name": "BeurFM",
+    "URLStream": "http://broadcast.infomaniak.net/beurfm-high.mp3",
+    "Infos": "128kbps - WebRadio",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_beurfmmain.png"
+  },
+  {
+    "ID": "22",
+    "Name": "BeurFM Maroc",
+    "URLStream": "http://broadcast.infomaniak.ch/beurfm-marocain-high.mp3",
+    "Infos": "128kbps - WebRadio",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_beurfm.png"
+  },
+  {
+    "ID": "2",
+    "Name": "Cap Radio",
+    "URLStream": "http://vipicecast.yacast.net/cap_radio",
+    "Infos": "64kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_capradio.png"
+  },
+  {
+    "ID": "3",
+    "Name": "Casa FM",
+    "URLStream": "http://41.205.209.130:8000",
+    "Infos": "24kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_casafm.png"
+  },
+  {
+    "ID": "4",
+    "Name": "ChadaFM",
+    "URLStream": "http://broadcast.infomaniak.net/chadafm-high.mp3",
+    "Infos": "128kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_chada.png"
+  },
+  {
+    "ID": "5",
+    "Name": "Chaine Inter",
+    "URLStream": "mms://vipmms9.yacast.net/snrt_live04",
+    "Infos": "64kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_chaineinter.png"
+  },
+  {
+    "ID": "6",
+    "Name": "HIT RADIO",
+    "URLStream": "http://vipicecast.yacast.net/hit_radio_maroc",
+    "Infos": "128kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_hitradio.png"
+  },
+  {
+    "ID": "9",
+    "Name": "Luxe Radio",
+    "URLStream": "http://streaming.luxeradio.ma:8000/",
+    "Infos": "112kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_luxeradio.png"
+  },
+  {
+    "ID": "12",
+    "Name": "Medi1 Radio",
+    "URLStream": "http://streaming07.mit.ovea.com/medi1",
+    "Infos": "48kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_medi1.png"
+  },
+  {
+    "ID": "14",
+    "Name": "MedinaFM",
+    "URLStream": "http://medinafm.ice.infomaniak.ch:80/medinafm-128.mp3",
+    "Infos": "128kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_medinafm.png"
+  },
+  {
+    "ID": "11",
+    "Name": "MedRadio",
+    "URLStream": "http://hebergement.co.uk:2010/;stream.nsv",
+    "Infos": "96kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_medradio.png"
+  },
+  {
+    "ID": "23",
+    "Name": "Moroccan Voice",
+    "URLStream": "http://www.moroccanvoice.com:8000",
+    "Infos": "56kbps - WebRadio",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_moroccanvoice.png"
+  },
+  {
+    "ID": "13",
+    "Name": "Radio 2M",
+    "URLStream": "http://vipicecast.yacast.net/radio_2m",
+    "Infos": "128kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_2m.png"
+  },
+  {
+    "ID": "31",
+    "Name": "Radio AlJalia",
+    "URLStream": "http://184.107.221.58:8205/",
+    "Infos": "64kbps - WebRadio",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_aljalia.png"
+  },
+  {
+    "ID": "15",
+    "Name": "Radio Aswat",
+    "URLStream": "http://broadcaster.infomaniak.ch/aswat-high.mp3",
+    "Infos": "96kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_radioaswat.png"
+  },
+  {
+    "ID": "30",
+    "Name": "Radio France-Maghreb 2",
+    "URLStream": "http://broadcast.infomaniak.net/francemaghreb-high.mp3",
+    "Infos": "128kbps - WebRadio",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_francemaghreb.png"
+  },
+  {
+    "ID": "28",
+    "Name": "Radio INWI Charki",
+    "URLStream": "http://208.92.52.68/RADIO_CHARKI.mp3",
+    "Infos": "128kbps - WebRadio",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_inwicharki.png"
+  },
+  {
+    "ID": "25",
+    "Name": "Radio INWI Dance",
+    "URLStream": "http://208.92.52.78/RADIO_DANCE.mp3",
+    "Infos": "128kbps - WebRadio",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_inwidance.png"
+  },
+  {
+    "ID": "26",
+    "Name": "Radio INWI Hit",
+    "URLStream": "http://208.92.52.78/RADIO_HIT.mp3",
+    "Infos": "128kbps - WebRadio",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_inwihit.png"
+  },
+  {
+    "ID": "27",
+    "Name": "Radio INWI Maroc",
+    "URLStream": "http://208.92.52.50/RADIO_MAROC.mp3",
+    "Infos": "128kbps - WebRadio",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_inwimaroc.png"
+  },
+  {
+    "ID": "16",
+    "Name": "Radio MARS",
+    "URLStream": "http://radiomars.bcast.infomaniak.ch/radiomars-128.mp3",
+    "Infos": "96kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_radiomars.png"
+  },
+  {
+    "ID": "10",
+    "Name": "Radio MedVI Corant",
+    "URLStream": "mms://vipmms9.yacast.net/snrt_live02",
+    "Infos": "64kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_sadisa.png"
+  },
+  {
+    "ID": "29",
+    "Name": "Radio MFJ",
+    "URLStream": "http://listen.radionomy.com/mfjradio",
+    "Infos": "128kbps - WebRadio",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_mfj.png"
+  },
+  {
+    "ID": "17",
+    "Name": "Radio Plus Agadir",
+    "URLStream": "http://91.121.4.107:8000/radio_plus_agadir",
+    "Infos": "64kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_radioplus.png"
+  },
+  {
+    "ID": "24",
+    "Name": "Radio Yabladi",
+    "URLStream": "http://media.yabiladi.com:8000/",
+    "Infos": "128kbps - WebRadio",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_yabladi.png"
+  },
+  {
+    "ID": "18",
+    "Name": "Sawa Maroc",
+    "URLStream": "mms://a1893.l211041652.c2110.g.lm.akamaistream.net/D/1893/2110/v0001/reflector:41652",
+    "Infos": "64kbps",
+    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_sawa.png"
+  }
+]
