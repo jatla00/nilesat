@@ -8,10 +8,10 @@
   },
   {
     "ID": "8",
-    "Name": "Al Idaa Al Watania",
-    "URLStream": "mms://vipmms9.yacast.net/snrt_live01",
+    "Name": "radio tataouine",
+    "URLStream": "http://www.radiotataouine.tn/streamplayer/",
     "Infos": "64kbps",
-    "Icon": "http://radioma.ma/radiomaxbmc/images/radio_watania.png"
+    "Icon": "http://www.radiotataouine.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo-live.png"
   },
   {
     "ID": "19",
