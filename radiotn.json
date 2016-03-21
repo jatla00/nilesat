@@ -9,7 +9,7 @@
   {
     "ID": "8",
     "Name": "radio tataouine",
-    "URLStream": "http://www.radiotataouine.tn/streamplayer/",
+    "URLStream": "rtmp://196.203.16.78:1936/",
     "Infos": "64kbps",
     "Icon": "http://www.radiotataouine.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo-live.png"
   },
