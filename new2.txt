@@ -1,0 +1,127 @@
+name="Addon Installer"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/windows.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="addon"
+
+name="Testing PromptFile"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/windows.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="Testing MrFile"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/windows.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="Testing MediaFire Windows"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/windows.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="Testing MediaFire AFtv"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/windows.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="WARNING"
+url="http://fusion.tvaddons.ag/xpert-advanced/tools/wizard.txt"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/warning.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="splash"
+
+name="MAC"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/mac.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="WINDOWS"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/windows.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="FIRETV"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/firetv.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="OUYA"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi1.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/ouya.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="ANDROID"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi1.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/android.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="iDEVICES"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi1.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/idevices.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="ATV"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/atv2.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="MATRICOM"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/matricom.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="PIVOS"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/pivos.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings!"
+type="main"
+
+name="LINUX"
+url="https://archive.org/download/buffaloraouf_gmail_Kodi/Kodi.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/linux.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings and does not yet function with OpenELEC devices!"
+type="main"
